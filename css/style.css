@@ -48,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: lightpink;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -156,6 +156,7 @@ a.source:visited {
   max-height: 100%;
   max-width: 100%;
   vertical-align: middle;
+  border: 5px solid blue;
 }
 
 #header {
@@ -168,6 +169,7 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  font-weight: bold;
 }
 
 h2 {
